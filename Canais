@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",RECORD TV
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",BAND
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",TV CULTURA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
